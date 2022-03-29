@@ -1,0 +1,107 @@
+# Copyright (C) 2021 Paul V. Biron/Sparrow Hawk Computing
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Helper 0.3.1-beta1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gf-helper\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-06T13:42:02-06:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: gf-helper\n"
+
+#. Plugin Name of the plugin
+msgid "Gravity Forms Helper"
+msgstr ""
+
+#. Description of the plugin
+msgid "Misc Gravity Forms Settings/etc Improvements"
+msgstr ""
+
+#. Author of the plugin
+msgid "Paul V. Biron/Sparrow Hawk Computing"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sparrowhawkcomputing.com/"
+msgstr ""
+
+#: includes/class-addon.php:61
+#: includes/class-addon.php:62
+msgid "GF Helper"
+msgstr ""
+
+#: includes/class-addon.php:169
+msgid "Select whether confirmation anchor is enabled or disabled."
+msgstr ""
+
+#: includes/class-addon.php:170
+#: includes/class-addon.php:227
+msgid "Confirmation Anchor"
+msgstr ""
+
+#: includes/class-addon.php:173
+msgid "Use Global Setting (cuurently Enabled)"
+msgstr ""
+
+#: includes/class-addon.php:173
+msgid "Use Global Setting (currently Disabled)"
+msgstr ""
+
+#: includes/class-addon.php:177
+#: includes/class-addon.php:230
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-addon.php:181
+#: includes/class-addon.php:234
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-addon.php:201
+msgid "No-Conflict Mode"
+msgstr ""
+
+#: includes/class-addon.php:202
+msgid "If Gravity Forms No-Conflict Mode is on, certain other plugin/theme scripts and styles won't be enqueued...which may cause those plugins/theme to not work correctly.  If you know that such a script/style is safe to enqueue on Gravity Forms admin screens, you can enter their handles here."
+msgstr ""
+
+#: includes/class-addon.php:207
+msgid "Enter one script handle per line."
+msgstr ""
+
+#: includes/class-addon.php:208
+msgid "Allowed Scripts"
+msgstr ""
+
+#: includes/class-addon.php:214
+msgid "Enter one style handle per line."
+msgstr ""
+
+#: includes/class-addon.php:215
+msgid "Allowed Styles"
+msgstr ""
+
+#: includes/class-addon.php:221
+msgid "Misc"
+msgstr ""
+
+#: includes/class-addon.php:226
+msgid "Select whether confirmation anchor is enabled or disabled.  This can be overridden for each form."
+msgstr ""
+
+#: includes/class-addon.php:259
+msgid "Yes/No"
+msgstr ""
+
+#: includes/class-addon.php:260
+msgid "Yes"
+msgstr ""
+
+#: includes/class-addon.php:261
+msgid "No"
+msgstr ""

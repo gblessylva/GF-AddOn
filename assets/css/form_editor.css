@@ -1,0 +1,16 @@
+/*
+ * Ensure that lists in descriptions that specify a lower-alpha or lower-roman type actually render that way in the form editor.
+ * by default, core's common.css forces all lists to render as decimal.
+ *
+ * Note: we can't do anything about upper-{alpha,roman} because browsers are currently broken and can't deal with that.
+ */
+
+.gfield_description ol[type="i"],
+.gfield_description ol[type="i"] li {
+	list-style-type: lower-roman;
+}
+
+.gfield_description ol[type="a"],
+.gfield_description ol[type="a"] li {
+	list-style-type: lower-alpha;
+}
