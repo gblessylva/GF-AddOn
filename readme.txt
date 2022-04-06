@@ -1,6 +1,6 @@
 === Gravity Forms Helper ===
 
-Contributors: pbiron
+Contributors: gblessylva
 Tags: gravityforms
 Requires at least: 4.6
 Tested up to: 5.8
